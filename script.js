@@ -9,5 +9,3 @@ mobileBtn.addEventListener("click", () => {
 mobileBtnExit.addEventListener("click", () => {
   nav.classList.remove("menu-btn");
 });
-
-console.log("Welcome");
